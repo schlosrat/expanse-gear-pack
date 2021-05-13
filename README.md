@@ -24,7 +24,32 @@ The Items included are maily sourced from various fan sites and freely distrubut
 - Vac Suit
 - Vac Suit - Belter
 ## Tools
-- Many...
+- AutoDoc
+- Construction Mech
+- Drone Thruster Pack
+- Emergency First Aid Kit
+- Hand Terminal - Basic
+- Hand Terminal - Nice
+- Heads-Up Display
+- KeyCard - Facility
+- KeyCard - Vehicle
+- Laser Sight
+- Mag Boots
+- Shoulder Mech
+- Small Drone
+- Thruster Pack
+- Tool Kit
+- Tool Kit (Crafting)
+- Tool Kit (Demolitions)
+- Tool Kit (Engineering)
+- Tool Kit (Research)
+- Tool Kit (Technology)
+- TVirtual Display (Terminal)
+- Workshop
+- Workshop (Crafting)
+- Workshop (Engineering)
+- Workshop (Research)
+- Workshop (Technology)
 ## Weapons
 ### Explosives
 - Flash Bang Grenade
