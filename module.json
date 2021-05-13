@@ -1,17 +1,17 @@
 {
-	"name": "expanse-pack",
-	"title": "Expanse Pack",
-	"description": "Shareable Expanse RPG Compendium Pack - NO COPYRIGHT MATERIAL",
+	"name": "expanse-gear-pack",
+	"title": "Expanse Gear Pack",
+	"description": "Equipment for PCs and NPCs from the Expanse books and TV show for use in Foundry VTT with the AGE System (unofficial)",
 	"author": "schlosrat",
-	"version": "0.1.7",
+	"version": "0.1.0",
 	"system": "age-system",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion":"0.7.9",
-	"url": "https://github.com/schlosrat/expanse-pack",
-	"manifest": "https://raw.githubusercontent.com/schlosrat/expanse-pack/master/module.json",
-	"download": "https://github.com/schlosrat/expanse-pack/archive/refs/tags/0.1.7.zip",
-	"changelog": "https://github.com/schlosrat/expanse-pack/blob/master/CHANGELOG.md",
-	"readme": "https://github.com/schlosrat/expanse-pack/blob/master/README.md",
+	"url": "https://github.com/schlosrat/expanse-gear-pack",
+	"manifest": "https://raw.githubusercontent.com/schlosrat/expanse-gear-pack/master/module.json",
+	"download": "https://github.com/schlosrat/expanse-gear-pack/archive/refs/tags/0.1.0.zip",
+	"changelog": "https://github.com/schlosrat/expanse-gear-pack/blob/master/CHANGELOG.md",
+	"readme": "https://github.com/schlosrat/expanse-gear-pack/blob/master/README.md",
 	"packs": [
 		{
 			"name": "armor",
@@ -35,13 +35,6 @@
 			"module": "ExpansePack"
 		},
 		{
-			"name": "npcs",
-			"label": "NPCs",
-			"path": "packs/npcs.db",
-			"entity": "Actor",
-			"module": "ExpansePack"
-		},
-		{
 			"name": "pistols",
 			"label": "Pistols",
 			"path": "packs/pistols.db",
@@ -56,41 +49,6 @@
 			"module": "ExpansePack"
 		},
 		{
-			"name": "scenes",
-			"label": "Scenes",
-			"path": "packs/scenes.db",
-			"entity": "Scene",
-			"module": "ExpansePack"
-		},
-		{
-			"name": "ship-flaws",
-			"label": "Ship Flaws",
-			"path": "packs/ship-flaws.db",
-			"entity": "Item",
-			"module": "ExpansePack"
-		},
-		{
-			"name": "ship-qualities",
-			"label": "Ship Qualities",
-			"path": "packs/ship-qualities.db",
-			"entity": "Item",
-			"module": "ExpansePack"
-		},
-		{
-			"name": "ship-weapons",
-			"label": "Ship Weapons",
-			"path": "packs/ship-weapons.db",
-			"entity": "Item",
-			"module": "ExpansePack"
-		},
-		{
-			"name": "ships",
-			"label": "Ships",
-			"path": "packs/ships.db",
-			"entity": "Actor",
-			"module": "ExpansePack"
-		},
-		{
 			"name": "shotguns",
 			"label": "Shotguns",
 			"path": "packs/shotguns.db",
@@ -102,20 +60,6 @@
 			"label": "Tools",
 			"path": "packs/tools.db",
 			"entity": "Item",
-			"module": "ExpansePack"
-		},
-		{
-			"name": "ship-notes",
-			"label": "Ship Notes",
-			"path": "packs/ship-notes.db",
-			"entity": "JournalEntry",
-			"module": "ExpansePack"
-		},
-		{
-			"name": "npc-notes",
-			"label": "Generic NPC Notes",
-			"path": "packs/npc-notes.db",
-			"entity": "JournalEntry",
 			"module": "ExpansePack"
 		}
 	]
