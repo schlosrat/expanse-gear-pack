@@ -131,7 +131,6 @@ https://commons.wikimedia.org/wiki/File:FAMAS-G2-IMG_8894-white.jpg
 https://commons.wikimedia.org/wiki/File:QBZ_95_PLA.png
 
 # Credits
+Some of the better developed items were originally created by dannyb2525#1594 and shared for public use on the Green Ronin AGE Appropriate Discord server
 Images sourced from Google Searches limited to Creative Commons Licensable images
 Icons sourced from https://game-icons.net/
-Extremely awesome free tokens used courtesy of Devin's Tokens (https://immortalnights.com/tokens/token-usage-rights/)
-NOTE: For a small price Devin will customize existing tokens for you, or you can commission a custom token to meet your needs! (https://immortalnights.com/order-a-custom-token/) He's also got some even more awesome premium token sets! (https://immortalnights.com/product-category/sci-fi-3/)
