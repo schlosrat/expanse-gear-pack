@@ -103,7 +103,7 @@ The Items included are maily sourced from various fan sites and freely distrubut
 - UNTech TSG-4 (https://commons.wikimedia.org/wiki/File:Kel-Tec_KSG_(2).jpg)
 - UNTech TSG-4L (https://commons.wikimedia.org/wiki/File:Kel-Tec_KSG_(2).jpg)
 
-## Other images included but nopt used (can be swapped in for any of the above)
+## Other images included but not used (can be swapped in for any of the above)
 https://commons.wikimedia.org/wiki/File:AiResearch_Advanced_Extra-Vehicular_Suit,_AiResearch_-_Garrett_Corp.,_1967_-_Kennedy_Space_Center_-_Cape_Canaveral,_Florida_-_DSC02899.jpg
 https://commons.wikimedia.org/wiki/File:Litton_B1-A_Advanced_Extra-Vehicular_Suit,_Litton_Industries,_1969_-_Kennedy_Space_Center_-_Cape_Canaveral,_Florida_-_DSC02895.jpg
 https://commons.wikimedia.org/wiki/File:NASA_Ames-X5_hard_space_suit.jpg
